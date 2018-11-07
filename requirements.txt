@@ -1,0 +1,5 @@
+pydicom
+keras
+numpy
+Pillow
+boto3
