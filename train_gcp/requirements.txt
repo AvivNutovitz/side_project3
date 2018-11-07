@@ -1,0 +1,9 @@
+pydicom
+keras
+google-cloud-storage
+numpy
+setuptools
+pandas
+argparse
+Pillow
+sklearn
